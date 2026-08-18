@@ -22,7 +22,7 @@ export default function Journal() {
 
                 <h1 className="text-stone-800  font-mono"> Rules</h1>
 
-                <button className="p-2 text-sm rounded-md bg-stone-800 hover:bg-stone-800/80
+                <button className="p-2 text-sm rounded-md bg-stone-800 text-stone-200 hover:bg-stone-800/80
                  cursor-pointer "> New Rule + </button>
 
                 </div>
